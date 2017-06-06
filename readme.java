@@ -7,3 +7,7 @@ public void shake(){
 public void search(){
 	
 }
+
+public void justDo(){
+	
+}
